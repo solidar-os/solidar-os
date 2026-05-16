@@ -1,4 +1,4 @@
-# Model Definition: OFN 
+# Network Definition: OFN 
 **Full Name:** Open Food Network  
 **Global Reach:** Australia, UK, Europe, South Africa, Canada.
 
